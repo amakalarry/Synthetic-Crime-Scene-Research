@@ -5,10 +5,6 @@
 [![Model: YOLOv11s](https://img.shields.io/badge/Model-YOLOv11s-green)]()
 [![Status: Under Review](https://img.shields.io/badge/Status-Under%20Review-orange)]()
 
-> **Paper submitted to:** Journal of Forensic Sciences (JFS)  
-> **Authors:** Chiamaka Femi-Adeyinka¹, Cihan Varol¹, Ahmet Furkan Aydogan², Miles Emory Tutt²  
-> **Affiliations:** ¹Sam Houston State University, ²University of North Carolina Wilmington  
-> **Corresponding Author:** Chiamaka Femi-Adeyinka (cjf068@shsu.edu)
 
 ---
 
@@ -213,22 +209,6 @@ Text Prompts ──► Imagen4 (TTI) ──► 949 Additional Images ───�
 - **No sensitive personal data** was used in dataset creation.
 - All generation was conducted under Google Vertex AI platform content guidelines.
 - This dataset is intended for **research purposes only** to support the development of forensic AI tools.
-
----
-
-## Citation
-
-If you use this dataset or code in your research, please cite:
-
-```bibtex
-@article{femiadeyinka2025crimescene,
-  title={Generative AI for Crime Scene Simulation: A Synthetic Dataset for Forensic Object Detection},
-  author={Femi-Adeyinka, Chiamaka and Varol, Cihan and Aydogan, Ahmet Furkan and Tutt, Miles Emory},
-  journal={Journal of Forensic Sciences},
-  year={2025},
-  note={Under Review}
-}
-```
 
 ---
 
