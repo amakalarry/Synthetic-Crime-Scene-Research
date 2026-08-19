@@ -97,7 +97,7 @@ Synthetic-Crime-Scene-Research/
 
 ## Object Classes (13 Categories)
 
-| ID | Class         | Initial (Veo2) | Final (+ Imagen4) | AP@0.5 |
+| ID | Class         | Initial (Veo2) | Final (+ Imagen4) | mAP@0.5 |
 |:--:|:-------------|:--------------:|:-----------------:|:------:|
 | 0  | Body          | 74             | 165               | 0.748  |
 | 1  | Laptop        | 229            | 332               | 0.932  |
@@ -112,7 +112,7 @@ Synthetic-Crime-Scene-Research/
 | 10 | TV            | 19             | 165               | 0.983  |
 | 11 | Flashdrive    | 179            | 193               | 0.738  |
 | 12 | Smartspeaker  | 138            | 149               | 0.881  |
-|    | **Total**     | **1,265**      | **2,494**         | **0.843** |
+|    | **Total**     |                |                   | **0.843** |
 
 ---
 
