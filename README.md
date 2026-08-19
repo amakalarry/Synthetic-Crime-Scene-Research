@@ -8,16 +8,6 @@ Dataset: 1,379 Images
 
 Model: YOLOv11s
 
-> **Paper submitted to:** Journal of Forensic Sciences (JFS)
-> 
-> 
-> **Authors:** Chiamaka Femi-Adeyinka¹, Cihan Varol¹, Ahmet Furkan Aydogan², Miles Emory Tutt²
-> 
-> **Affiliations:** ¹Sam Houston State University, ²University of North Carolina Wilmington
-> 
-> **Corresponding Author:** Chiamaka Femi-Adeyinka (cjf068@shsu.edu)
-> 
-
 ---
 
 ## Overview
@@ -46,13 +36,11 @@ Untitled
 
 Generated to augment underrepresented classes:
 
-Untitled
 
 ### Detection Results (YOLOv11s Inference)
 
 Bounding boxes with confidence scores on held-out test images:
 
-Untitled
 
 ---
 
@@ -217,18 +205,4 @@ Text Prompts ──► Imagen4 (TTI) ──► 949 Additional Images ───�
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material
-
-Under the following terms:
-- **Attribution** — You must give appropriate credit and cite the paper
-- **NonCommercial** — You may not use the material for commercial purposes
-
 ---
-
-## Contact
-
-For questions, collaboration, or access requests:
-- **Chiamaka Femi-Adeyinka** — cjf068@shsu.edu
-- **Cihan Varol** — cxv007@shsu.edu
