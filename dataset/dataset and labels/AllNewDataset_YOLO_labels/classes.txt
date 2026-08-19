@@ -1,0 +1,13 @@
+Body
+Laptop
+Mobilephone
+GlassCup
+Keyboard
+Camera
+Knife
+Router
+Tablet
+Smartwatch
+TV
+flashdrive
+Smartspeaker
