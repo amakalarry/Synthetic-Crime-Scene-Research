@@ -23,25 +23,19 @@ This work addresses the critical challenge of **data scarcity in forensic AI** â
 ## Sample Synthetic Images
 
 ### Veo2 Text-to-Video Frames
-Extracted at 1 FPS from 50 AI-generated 8-second crime scene videos:
+Extracted at 1 FPS from 50 AI-generated 8-second crime scene videos
 
-| Living Room | Living Room (Wide) | Bathroom | Bathroom (Close-up) |
-|:-----------:|:------------------:|:--------:|:-------------------:|
-| ![](sample_images/veo2_sample_01.jpg) | ![](sample_images/veo2_sample_02.jpg) | ![](sample_images/veo2_sample_03.jpg) | ![](sample_images/veo2_sample_04.jpg) |
+
 
 ### Imagen4 Text-to-Image (Class Balancing)
-Generated to augment underrepresented classes:
+Generated to augment underrepresented classes
 
-| Glass Cup | Camera | Body | Keyboard |
-|:---------:|:------:|:----:|:--------:|
-| ![](sample_images/imagen4_sample_01.jpg) | ![](sample_images/imagen4_sample_02.jpg) | ![](sample_images/imagen4_sample_03.jpg) | ![](sample_images/imagen4_sample_04.jpg) |
 
 ### Detection Results (YOLOv11s Inference)
-Bounding boxes with confidence scores on held-out test images:
+Bounding boxes with confidence scores on held-out test images
 
-| Detection Example 1 | Detection Example 2 |
-|:-------------------:|:-------------------:|
-| ![](sample_images/detection_sample_01.jpg) | ![](sample_images/detection_sample_02.jpg) |
+
+
 
 ---
 
